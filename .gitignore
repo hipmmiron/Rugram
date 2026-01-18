@@ -1,8 +1,6 @@
 code/
+start/
 UI/
 static/
-start/
 TOKEN
 *.db
-__pycache__/
-.vscode/
